@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-ajp-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-annotations-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-client-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-continuation-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-deploy-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-http-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-io-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-jmx-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-jndi-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-plus-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-policy-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-rewrite-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-security-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-server-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-servlet-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-servlets-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-util-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-webapp-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-websocket-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jetty-xml-7.0.2.v20100331.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/Processing.app/Contents/Resources/Java/core.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jndi/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/justin/Source/jetty/lib/jndi/mail-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

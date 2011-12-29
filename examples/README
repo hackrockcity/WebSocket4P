@@ -1,0 +1,7 @@
+WebSocket4P is a simple web server library for Processing.  Currently it only
+supports WebSocket connections.  Future versions may support GET requests and
+other fun stuff.  For more on WebSockets see:
+
+http://dev.w3.org/html5/websockets/
+
+See the simple ChatServer example for documentation.
